@@ -1,7 +1,6 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Peter Slavin
+name: Peter Slavin
 
 # Build settings
 markdown: kramdown
@@ -9,45 +8,49 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+ - title: Email
+   url: mailto:pbslavin@gmail.com
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/pbslavin
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: http://www.linkedin.com/in/peter-slavin-46824790
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
+ - C#/ASP.NET Core
+ - JavaScript
+ - HTML/CSS
+ - Python/Django
+ - Flask
+ - Ruby
  - Java
- - JPA
- - SQL
+ - Node.js
+ - Express.js
+ - AngularJS
+ - MS SQL Server
  - REST
- - Technical Architecture
- - Machine learning
+ - Oracle PL/SQL
+ - MySQL
+ - MongoDB
+ - SMTP
+ - Git/GitHub
+ - SendGrid
+ - Docker
+ - xUnit
+ - Selenium
+ - design patterns
+ - shell scripting
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Tutor and curricular development assistant
+   start: 2018
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
+   employer: Austin Coding Academy
+   description: Coding bootcamp based in Austin, TX. <a href="https://www.austincodingacademy.com" taget="_blank">austincodingacademy.com</a>
  - title: Senior Engineer
    start: 2016
    end: 2017
