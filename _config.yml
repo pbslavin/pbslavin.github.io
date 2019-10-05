@@ -69,10 +69,18 @@ roles:
 
 #Education is required
 education:
+ - level: Certificate
+   date: 2018
+   subject: C#/.NET Full-Stack Web Development
+   school: Austin Coding Academy
  - level: Doctor of Philosophy (Ph.D.)
    date: 2004
    subject: Music (Composition)
    school: University of California, Berkeley
+ - level: Diploma
+   date: 1997
+   subject: C/COBOL/CICS Programming and Networking
+   school: Computer Learning Center
  - level: Bachelor of Music (B.M.)
    date: 1990
    subject: Composition
@@ -123,7 +131,7 @@ education:
 
 intro: |
   I am a lifelong professional musician, working for the past 5 years on starting a second career in software development, a field that, like music composition, is concerned with robust and efficient design of structures and integration of components. I am a graduate of Austin Coding Academy's .NET Full-Stack Developer program, and am currently employed by the school to help develop its .NET curriculum.<br/><br/>
-  I have worked with an extremely broad variety of technologies and languages, dating as far back as the 1990s, with my study of COBOL and C at San Francisco's Computer Learning Center. I have built applications on a wide variety of platforms, from a metronome app for Palm Pilot (2003) to MVC and single-page web applications using .NET Core and the MEAN stack, and I am passionate about writing clean, efficient, resilient code.
+  I have worked with an extremely broad variety of technologies and languages, dating as far back as the 1990s, with study of COBOL and C at San Francisco's Computer Learning Center. I have built applications on a wide variety of platforms, from a metronome app for Palm Pilot (2003) to MVC and single-page web applications using .NET Core and the MEAN stack, and I am passionate about writing clean, efficient, resilient code.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 # additionalinfo: |
