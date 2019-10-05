@@ -42,7 +42,7 @@ skills:
  - shell scripting
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+# blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
@@ -122,10 +122,8 @@ education:
 #    flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am a lifelong professional musician, working for the past 5 years on starting a new career in software development.<br/><br/>
-  I am a graduate of Austin Coding Academy's .NET Full-Stack Developer program, and am currently employed by the school to help develop its .NET curriculum.<br/><br/>
-  I have worked with an extremely broad variety of technologies and languages, dating as far back as the 1990s, when I studied COBOL and C for 13 months at San Francisco's Computer Learning Center.<br/><br/>
-  I have built many applications, from a metronome app for Palm Pilot (2003) to MVC and single-page applications using .NET Core and the MEAN stack.
+  I am a lifelong professional musician, working for the past 5 years on starting a new career in software development. I am a graduate of Austin Coding Academy's .NET Full-Stack Developer program, and am currently employed by the school to help develop its .NET curriculum.<br/><br/>
+  I have worked with an extremely broad variety of technologies and languages, dating as far back as the 1990s, when I studied COBOL and C for 13 months at San Francisco's Computer Learning Center. I have build applications on a wide variety of platforms, from a metronome app for Palm Pilot (2003) to MVC and single-page web applications using .NET Core and the MEAN stack. I am passionate about clean code, robust design, and efficiency.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 # additionalinfo: |
