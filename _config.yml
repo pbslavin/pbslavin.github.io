@@ -69,10 +69,6 @@ roles:
 
 #Education is required
 education:
- - level: Certificate
-   date: 2018
-   subject: C#/.NET Full-Stack Web Development
-   school: Austin Coding Academy
  - level: Doctor of Philosophy (Ph.D)
    date: 2004
    subject: Music (Composition)
