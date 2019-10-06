@@ -54,7 +54,7 @@ roles:
  - title: Pianist
    start: 2018
    end: 2019
-   employer: St. Helen Catholic Church
+   employer: St Helen Catholic Church
    description: Parish in Georgetown, TX. <a href="https://www.sainthelens.org" taget="_blank">sainthelens.org</a>
  - title: Piano Instructor
    start: 2018
@@ -69,7 +69,11 @@ roles:
 
 #Education is required
 education:
- - level: Doctor of Philosophy (Ph.D)
+ - level: Certificate
+   date: 2018
+   subject: C#/.NET Full-Stack Web Development
+   school: Austin Coding Academy
+ - level: Doctor of Philosophy (PhD)
    date: 2004
    subject: Music (Composition)
    school: University of California, Berkeley
@@ -77,7 +81,7 @@ education:
    date: 1997
    subject: C/COBOL/CICS Programming and Networking
    school: Computer Learning Center
- - level: Bachelor of Music (B.M.)
+ - level: Bachelor of Music (BM)
    date: 1990
    subject: Composition
    school: San Francisco Conservatory of Music
