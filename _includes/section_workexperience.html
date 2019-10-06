@@ -1,6 +1,6 @@
 <div class="rounded_panel txt_lightgrey">
 	<div class="top-rounded-panel grey-bg">
-		<h1>Work and Education</h1>
+		<h1>Work</h1>
 	</div>
 	<div class="content-rounded-panel">
 		<div>
@@ -17,6 +17,9 @@
 								</a>
 						</div>
 					{% endfor %}
+					<div class="top-rounded-panel grey-bg">
+						<h1>Education</h1>
+					</div>
 					{% for edu in site.education %}
 						<div class="timeline">
 								<a href="#" class="timeline-content"  data-toggle="modal" data-target="#{{edu.school | replace: '.', '' | replace: ' ', ''}}-{{edu.level | replace: '.', '' | replace: ' ', '' | replace: '(', '' | replace: ')', ''}}">
