@@ -73,18 +73,22 @@ education:
    date: 2018
    subject: C#/.NET Full-Stack Web Development
    school: Austin Coding Academy
+   website: <a href="https://www.austincodingacademy.com" taget="_blank">austincodingacademy.com</a>
  - level: Doctor of Philosophy (PhD)
    date: 2004
    subject: Music
    school: UC Berkeley
+   website: <a href="https://www.berkeley.edu" taget="_blank">berkeley.edu</a>
  - level: Diploma
    date: 1997
    subject: C/COBOL/CICS Programming and Networking
+   website: N/A
    school: Computer Learning Center
  - level: Bachelor of Music (BM)
    date: 1990
    subject: Composition
    school: San Francisco Conservatory of Music
+   website: <a href="https://www.sfcm.edu" taget="_blank">sfcm.edu</a>
 
 #This section is optional (as is the image link below)
 # coursera:
