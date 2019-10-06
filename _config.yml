@@ -55,17 +55,17 @@ roles:
    start: 2018
    end: 2019
    employer: St Helen Catholic Church
-   description: Parish in Georgetown, TX. <a href="https://www.sainthelens.org" taget="_blank">sainthelens.org</a>
+   description: Georgetown, TX. <a href="https://www.sainthelens.org" taget="_blank">sainthelens.org</a>
  - title: Piano Instructor
    start: 2018
    end: 2019
    employer: Pfluger-Rock School of Music
-   description: Private music school in Pflugerville, TX. <a href="https://www.austinacademyofmusic.com/pfluger-rock/" taget="_blank">austinacademyofmusic.com/pfluger-rock/</a>
+   description: Pflugerville, TX. <a href="https://www.austinacademyofmusic.com/pfluger-rock/" taget="_blank">austinacademyofmusic.com/pfluger-rock/</a>
  - title: Accompanist
    start: 2014
    end: 2018
    employer: Trinity Presbyterian Church
-   description: Church in San Carlos, CA. <a href="https://www.trinity-pres.org" taget="_blank">trinity-pres.org</a>
+   description: San Carlos, CA. <a href="https://www.trinity-pres.org" taget="_blank">trinity-pres.org</a>
 
 #Education is required
 education:
