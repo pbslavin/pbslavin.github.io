@@ -51,11 +51,6 @@ roles:
    end: Ongoing
    employer: Austin Coding Academy
    description: Coding bootcamp based in Austin, TX. <a href="https://www.austincodingacademy.com" taget="_blank">austincodingacademy.com</a>
- - title: Pianist
-   start: 2018
-   end: 2019
-   employer: St. Helen Catholic Church
-   description: Parish in Georgetown, TX. <a href="https://www.sainthelens.org" taget="_blank">sainthelens.org</a>
  - title: Piano Instructor
    start: 2018
    end: 2019
