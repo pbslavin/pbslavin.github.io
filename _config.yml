@@ -140,8 +140,8 @@ education:
 #    flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am a lifelong professional musician, working for the past several years on embarking on a career in software development, which, like music composition, is about design of structures and integration of parts. And, also like music, I have a passion for good code. I am a graduate of Austin Coding Academy's .NET Full-Stack Developer program, and am currently employed by the school to help develop its .NET curriculum.<br/><br/>
-  I have worked with a broad variety of technologies and languages going back to the 1990s, with studies of COBOL and C at San Francisco's Computer Learning Center. I have built applications on a wide variety of platforms, from a metronome app for Palm Pilot (2003) to MVC and single-page web applications using .NET Core and the MEAN stack. I am a fanatic about always improving my ability to optimize my designs, and write clean code.
+  I am a lifelong professional musician, working for the past several years on embarking on a career in software development, which, like music composition, is about design of structures and integration of parts. And, like composition, involves a great deal of problem solving. I am a graduate of Austin Coding Academy's .NET Full-Stack Developer program, and am currently employed by the school to help develop its .NET curriculum.<br/><br/>
+  I have worked with a broad variety of technologies and languages going back to the 1990s, with studies of COBOL and C at San Francisco's Computer Learning Center. I have built applications on a wide variety of platforms, from a metronome app for Palm Pilot (2003) to MVC and single-page web applications using .NET Core and the MEAN stack. I am a fanatic about optimizing and writing clean code.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 # additionalinfo: |
