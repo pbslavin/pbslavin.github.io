@@ -40,7 +40,7 @@ roles:
  - title: Junior developer
    start: 2019
    end: Ongoing
-   description: Building an investor data management application, working under lead developer Matt Cameron, for private investment company Canaras Capital Management, LLC, in React and C#. <a href="https://www.canaras.com" taget="_blank">canaras.com</a>
+   description: Building an investor data management application, working under lead developer Matt Cameron, for private investment company Canaras Capital Management, LLC, in React and C#. <a href="https://www.canaras.com" target="_blank">canaras.com</a>
  - title: Editorial consultant
    start: 2018
    end: 2019
@@ -65,7 +65,7 @@ roles:
    start: 2008
    end: 2012
    employer: Nan McKay and Associates
-   description: Defended the company daily against errors impacting Federal and local funding, and maintenance of the contract for the Chicago, IL Housing Authority.
+   description: Caught housing subsidy errors and helped developed tools for this purpose, ensuring continuation of Federal and local funding, and retention of the contract for the Chicago, IL Housing Authority
 
 #Education is required
 education:
