@@ -56,11 +56,11 @@ roles:
 #    end: 2019
 #    employer: Pfluger-Rock School of Music
 #    description: Pflugerville, TX. <a href="https://www.austinacademyofmusic.com/pfluger-rock/" taget="_blank">austinacademyofmusic.com/pfluger-rock/</a>
- - title: Accompanist
-   start: 2014
-   end: 2018
-   employer: Trinity Presbyterian Church
-   description: San Carlos, CA. <a href="https://www.trinity-pres.org" taget="_blank">trinity-pres.org</a>
+#  - title: Accompanist
+#    start: 2014
+#    end: 2018
+#    employer: Trinity Presbyterian Church
+#    description: San Carlos, CA. <a href="https://www.trinity-pres.org" taget="_blank">trinity-pres.org</a>
 #  - title: Quality Control Specialist
 #    start: 2008
 #    end: 2012
