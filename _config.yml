@@ -18,6 +18,7 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - C#/ASP.NET Core
+ - MS SQL Server/SQL Server Management Studio
  - JavaScript
  - HTML/CSS
  - Node.js
@@ -134,8 +135,8 @@ education:
 #    flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am a lifelong musician, and have worked as a pianist and teacher all my adult life. My interest in software development arose in the 1990s, and has more recently become my focus professionally. I am a graduate of Austin Coding Academy's .NET full-stack developer program, after which I worked for the school in writing and editing its .NET, JavaScript and WordPress textbooks and course materials. I am currently working as a junior developer under an independent lead, building an investment data management system in React and C#. <br/><br/>
-  I have built applications, mostly for myself, using technologies and languages, from C to the MEAN stack. My current areas of focus are React/Redux and ASP.NET Core. I am fanatical about writing clean and efficient code, and delivering it on time.
+  I'm a lifelong musician. By the time I got my doctorate in Music in 2004, I had taught and worked as a pianist and organist and teacher of music for over a decade. My interest in software development also arose during the 1990s, but it was in 2015 that I began to shift into software as a second career. I am a graduate of Austin Coding Academy's .NET full-stack program; while in my second trimester there, the school hired me to tutor; after graduation, I worked for the school writing and editing ASP.NET Core, JavaScript, and WordPress textbooks and course materials. I am currently working as a junior developer assisting an independent contractor in building an investment data management system in React and C#. <br/><br/>
+  Over the past the past five years, I've built web apps with Python/Django, the MEAN stack, and most recently ASP.NET Core; scripted in Ruby; learned various SQL flavors; and reviewed the *nix scripting I had learned long ago when I studied C and COBOL/CISC programming in the 1990s. Now, as a professional, I work with React/Redux, ASP.NET Core and MS SQL Server. 
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 # additionalinfo: |
