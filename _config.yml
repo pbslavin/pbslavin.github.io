@@ -46,11 +46,11 @@ roles:
    end: 2019
    employer: Austin Coding Academy
    description: Wrote and edited instructional texts. <a href="https://www.austincodingacademy.com" target="_blank">austincodingacademy.com</a>
- - title: Pianist
-   start: 2017
-   end: 2018
-   employer: St Helen Catholic Church
-   description: Georgetown, TX. <a href="https://www.sainthelens.org" target="_blank">sainthelens.org</a>
+#  - title: Pianist
+#    start: 2017
+#    end: 2018
+#    employer: St Helen Catholic Church
+#    description: Georgetown, TX. <a href="https://www.sainthelens.org" target="_blank">sainthelens.org</a>
 #  - title: Piano Instructor
 #    start: 2018
 #    end: 2019
