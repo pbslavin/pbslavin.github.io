@@ -45,27 +45,27 @@ roles:
    start: 2018
    end: 2019
    employer: Austin Coding Academy
-   description: Wrote and edited instructional texts. <a href="https://www.austincodingacademy.com" taget="_blank">austincodingacademy.com</a>
+   description: Wrote and edited instructional texts. <a href="https://www.austincodingacademy.com" target="_blank">austincodingacademy.com</a>
  - title: Pianist
    start: 2018
    end: 2019
    employer: St Helen Catholic Church
-   description: Georgetown, TX. <a href="https://www.sainthelens.org" taget="_blank">sainthelens.org</a>
-#  - title: Piano Instructor
-#    start: 2018
-#    end: 2019
-#    employer: Pfluger-Rock School of Music
-#    description: Pflugerville, TX. <a href="https://www.austinacademyofmusic.com/pfluger-rock/" taget="_blank">austinacademyofmusic.com/pfluger-rock/</a>
+   description: Georgetown, TX. <a href="https://www.sainthelens.org" target="_blank">sainthelens.org</a>
+ - title: Piano Instructor
+   start: 2018
+   end: 2019
+   employer: Pfluger-Rock School of Music
+   description: Pflugerville, TX. <a href="https://www.austinacademyofmusic.com/pfluger-rock/" target="_blank">austinacademyofmusic.com/pfluger-rock/</a>
 #  - title: Accompanist
 #    start: 2014
 #    end: 2018
 #    employer: Trinity Presbyterian Church
-#    description: San Carlos, CA. <a href="https://www.trinity-pres.org" taget="_blank">trinity-pres.org</a>
- - title: Quality Control Specialist
-   start: 2008
-   end: 2012
-   employer: Nan McKay and Associates
-   description: Caught housing subsidy errors and helped developed tools for this purpose, ensuring continuation of Federal and local funding, and retention of the contract for the Chicago, IL Housing Authority
+#    description: San Carlos, CA. <a href="https://www.trinity-pres.org" target="_blank">trinity-pres.org</a>
+#  - title: Quality Control Specialist
+#    start: 2008
+#    end: 2012
+#    employer: Nan McKay and Associates
+#    description: Caught housing subsidy errors and helped developed tools for this purpose, ensuring continuation of Federal and local funding, and retention of the contract for the Chicago, IL Housing Authority
 
 #Education is required
 education:
