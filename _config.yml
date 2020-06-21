@@ -41,7 +41,7 @@ roles:
    start: 2019
    end: Ongoing
    description: Building an investor data management application, working under lead developer Matt Cameron, for private investment company Canaras Capital Management, LLC, in React and C#. <a href="https://www.canaras.com" target="_blank">canaras.com</a>
- - title: Editorial consultant
+ - title: Textbook editor
    start: 2018
    end: 2019
    employer: Austin Coding Academy
@@ -61,11 +61,11 @@ roles:
 #    end: 2018
 #    employer: Trinity Presbyterian Church
 #    description: San Carlos, CA. <a href="https://www.trinity-pres.org" taget="_blank">trinity-pres.org</a>
-#  - title: Quality Control Specialist
-#    start: 2008
-#    end: 2012
-#    employer: Nan McKay and Associates
-#    description: Caught housing subsidy errors and helped developed tools for this purpose, ensuring continuation of Federal and local funding, and retention of the contract for the Chicago, IL Housing Authority
+ - title: Quality Control Specialist
+   start: 2008
+   end: 2012
+   employer: Nan McKay and Associates
+   description: Caught housing subsidy errors and helped developed tools for this purpose, ensuring continuation of Federal and local funding, and retention of the contract for the Chicago, IL Housing Authority
 
 #Education is required
 education:
