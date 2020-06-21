@@ -20,38 +20,31 @@ skills:
  - C#/ASP.NET Core
  - JavaScript
  - HTML/CSS
- - Python/Django
- - Flask
- - Ruby
- - Java
  - Node.js
- - Express.js
- - AngularJS
  - React
  - MS SQL Server
  - REST
- - Oracle PL/SQL
- - MySQL
- - MongoDB
- - SMTP
  - Git/GitHub
- - SendGrid
  - Docker
  - xUnit
  - Selenium
  - design patterns
- - shell scripting
+ - Linux
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 # blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: Tutor and curriculum consultant
+- title: Junior developer
+  start: 2019
+  end: Ongoing
+  description: Building an investor data management application, working under lead developer Matt Cameron, for private investment company Canaras Capital Management, LLC, in React and C#. <a href="https://www.canaras.com" taget="_blank">canaras.com</a>
+ - title: Editorial consultant
    start: 2018
    end: Ongoing
    employer: Austin Coding Academy
-   description: Tutor and otherwise assist students and help develop and edit textbook materials. <a href="https://www.austincodingacademy.com" taget="_blank">austincodingacademy.com</a>
+   description: Assist in devloping text materials. <a href="https://www.austincodingacademy.com" taget="_blank">austincodingacademy.com</a>
  - title: Pianist
    start: 2018
    end: 2019
@@ -71,7 +64,7 @@ roles:
    start: 2008
    end: 2012
    employer: Nan McKay and Associates
-   description: Reviewed housing subsidy certifications for HUD compliance, Chicago Housing Authority, Chicago, IL.
+   description: Defended the company daily against errors impacting Federal and local funding, and maintenance of the contract for the Chicago, IL Housing Authority.
 
 #Education is required
 education:
@@ -140,8 +133,8 @@ education:
 #    flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am a lifelong professional musician, working for the past several years on launching a new career in software development, which, like music composition, is about design of structures and integration of parts, and similarly provides an endless supply of fascinating problems to solve. I am a graduate of Austin Coding Academy's .NET Full-Stack Developer program, and am currently employed by the school to help develop its .NET curriculum.<br/><br/>
-  I have worked with a broad variety of technologies and languages going back to the 1990s, with studies of COBOL and C at San Francisco's Computer Learning Center. I have built applications on a wide variety of platforms, from a metronome app for Palm Pilot (2003) to MVC and single-page web applications using .NET Core and the MEAN stack. I am fanatical about optimization and writing clean code.
+  I am a lifelong musician, and have worked as a pianist and teacher all my adult life. My interest in software development arose in the 1990s, and has more recently become my focus professionally. I am a 2018 graduate of Austin Coding Academy's .NET full-stack dev program, after which I worked for the Academy in developing its .NET, JavaScript and WordPress curricula. I am currently emploed as a junior developer, under an independent lead, in building an investment data management system in React and C#. <br/><br/>
+  I have worked with a broad variety of technologies and languages going back to the 1990s, with studies of COBOL and C at San Francisco's Computer Learning Center. I have built applications on a wide variety of platforms, from Palm OS to the MEAN stack. I am fanatical about delivering clean and efficient code.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 # additionalinfo: |
