@@ -61,11 +61,11 @@ roles:
 #    end: 2018
 #    employer: Trinity Presbyterian Church
 #    description: San Carlos, CA. <a href="https://www.trinity-pres.org" target="_blank">trinity-pres.org</a>
-#  - title: Quality Control Specialist
-#    start: 2008
-#    end: 2012
-#    employer: Nan McKay and Associates
-#    description: Caught housing subsidy errors and helped developed tools for this purpose, ensuring continuation of Federal and local funding, and retention of the contract for the Chicago, IL Housing Authority
+ - title: Quality Control Specialist
+   start: 2008
+   end: 2012
+   employer: Nan McKay and Associates
+   description: Caught housing subsidy errors and helped developed tools for this purpose, ensuring continuation of Federal and local funding, and retention of the contract for the Chicago, IL Housing Authority
 
 #Education is required
 education:
