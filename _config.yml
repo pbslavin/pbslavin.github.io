@@ -18,14 +18,17 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - C#/ASP.NET Core
+ - SQL Server/Management Studio
+ - xUnit
  - React
  - Redux
  - JavaScript
  - Node.js
- - xUnit
+ - Python
  - Selenium
  - REST APIs
  - Git
+ - *nix shell
  - HTML/CSS
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
@@ -130,8 +133,8 @@ education:
 #    flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I'm a lifelong musician, who, by the time I got my doctorate in composition in 2004, had been a professional pianist, organist, and music teacher for over a decade. I discovered my love of coding in 1995, after having earned a Bachelor of Music degree, and in 1997 completed a 13-month course focusing on programming in C and COBOL (and also involving networking, database management and SQL, the Unix shell, DOS and batch file scripting, as well as other topics) at the Computer Learning Center in San Francisco. After matriculating from CLC, I was hired onto a 10-person team that updated the BIOS of all the computers in what was then the UC/Stanford Medical System network to guard against Y2K failure. I was still looking for software development opportunities, beyond writing Palm Pilot apps for myself and friends. However, in 1999, I was accepted into a doctoral program in composition, and I was glad to return to music as career for the time being. After getting my PhD, I decided against a career that involved classroom teaching (that's never been for me), and I continued to work as a pianist and conductor, co-founding a 501(c)(3) performing ensemble, which I helped run for 6 years. I also worked at the Chicago Housing Authority, for an opera company, and a series of churches, as well as doing other accompanying, teaching, and music transcription work. In 2015, and for the second time, I decided I wanted to pursue coding, now as my second career.<br/><br/>
-  I spent two years teaching myself JavaScript/Node, Python/Django, and modern web development, and then completed the .NET Full-Stack Development program at Austin Coding Academy. During the course, ACA hired me as a teaching assistant and tutor; after graduation, I continued to work for the school, writing and editing ASP.NET Core, JavaScript, and WordPress textbooks and course materials. I am now working on a contract as a junior developer, for one lead developer, building an investment data management system for a small investment firm. <br/><br/>
+  I'm a lifelong musician, who, by the time I got my doctorate in composition in 2004, had been a professional pianist, organist, and music teacher for over a decade. I discovered my love of coding in 1995, after having earned a Bachelor of Music degree, and in 1997 completed a 13-month course focusing on programming in C and COBOL (and also involving networking, database management and SQL, the Unix shell, DOS and batch file scripting, as well as other topics) at the Computer Learning Center in San Francisco. After matriculating from CLC, I was hired onto a 10-person team that updated the BIOS of all the computers in what was then the UC/Stanford Medical System network to guard against Y2K failure, while I continued looking for software development opportunities, and wrote Palm Pilot apps for myself and friends. However, in 1999, I was accepted into a doctoral program in composition, and I was glad to return to music as my career for the time being. After getting my PhD, I decided against a career that involved classroom teaching (that's never been for me), and I continued to work as a pianist and conductor, co-founding a 501(c)(3) performing ensemble, which I helped run for 6 years. I also worked at the Chicago Housing Authority, for an opera company, and a series of churches, as well as doing other accompanying, teaching, and music transcription work. In 2015, and for the second time, I decided I wanted to pursue coding, now as my second career.<br/><br/>
+  I spent two years learning JavaScript, Python/Django, and modern web development on my own, and then completed the .NET Full-Stack Development program at Austin Coding Academy. During the course, ACA hired me as a teaching assistant and tutor; after graduation, I continued to work for the school, writing and editing ASP.NET Core, JavaScript, and WordPress textbooks and course materials. I am now working on a contract as a junior developer, for one lead developer, building an investment data management system for a small investment firm. <br/><br/>
   Over the past five years, I've written and deployed apps in Python with Django and Flask, and also using the MEAN stack. In my ACA course, I built three full-stack web apps in C# and ASP.NET Core, deploying them to Azure. I'm conversant with multiple flavors of SQL, entity-relationship modeling and normalization. My current work revolves around React/Redux and C#/ASP.NET Core. 
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
