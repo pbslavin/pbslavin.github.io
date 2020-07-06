@@ -39,14 +39,6 @@ h4{text-align:center;margin:30px 0;color:#444}
 .main-timeline .timeline:nth-child(4n) .timeline-icon{border-color:#2fcea5}
 .main-timeline .timeline:nth-child(4n) .title{color:#2fcea5}
 .main-timeline .timeline:nth-child(4n) .timeline-content:before{border-left-color:#2fcea5;border-bottom-color:#2fcea5}
-.main-timeline .timeline:nth-child(5n) .timeline-content:after,.main-timeline .timeline:nth-child(4n) .timeline-icon i,.main-timeline .timeline:nth-child(4n) .timeline-icon:before,.main-timeline .timeline:nth-child(4n):before{background:#2fcea5}
-.main-timeline .timeline:nth-child(5n) .timeline-icon{border-color:#2fcea5}
-.main-timeline .timeline:nth-child(5n) .title{color:#2fcea5}
-.main-timeline .timeline:nth-child(5n) .timeline-content:before{border-left-color:#2fcea5;border-bottom-color:#2fcea5}
-.main-timeline .timeline:nth-child(6n) .timeline-content:after,.main-timeline .timeline:nth-child(4n) .timeline-icon i,.main-timeline .timeline:nth-child(4n) .timeline-icon:before,.main-timeline .timeline:nth-child(4n):before{background:#2fcea5}
-.main-timeline .timeline:nth-child(6n) .timeline-icon{border-color:#2fcea5}
-.main-timeline .timeline:nth-child(6n) .title{color:#2fcea5}
-.main-timeline .timeline:nth-child(6n) .timeline-content:before{border-left-color:#2fcea5;border-bottom-color:#2fcea5}
 @media only screen and (max-width:1200px){.main-timeline .timeline-icon:before{width:50px;right:-50px}
 .main-timeline .timeline:nth-child(even) .timeline-icon:before{right:auto;left:-50px}
 .main-timeline .timeline-content{margin-top:75px}
@@ -97,7 +89,7 @@ h4{text-align:center;margin:30px 0;color:#444}
 .main-timeline4 .timeline:nth-child(2n) .year{right:0}
 .main-timeline4 .timeline:nth-child(2n) .year:before{right:auto;left:0;border-left:none;border-right:20px solid #337ab7;transform:rotate(-45deg)}
 .main-timeline4 .timeline:nth-child(2){margin-top:110px}
-.main-timeline4 .timeline:nth-child(odd){margin:-110px 0 0}
+/* .main-timeline4 .timeline:nth-child(odd){margin:-110px 0 0} */
 .main-timeline4 .timeline:nth-child(even){margin-bottom:80px}
 .main-timeline4 .timeline:first-child,.main-timeline4 .timeline:last-child:nth-child(even){margin:0}
 .main-timeline4 .timeline:nth-child(2n) .year{border-color:#337ab7;color:#337ab7}
