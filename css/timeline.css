@@ -39,6 +39,14 @@ h4{text-align:center;margin:30px 0;color:#444}
 .main-timeline .timeline:nth-child(4n) .timeline-icon{border-color:#2fcea5}
 .main-timeline .timeline:nth-child(4n) .title{color:#2fcea5}
 .main-timeline .timeline:nth-child(4n) .timeline-content:before{border-left-color:#2fcea5;border-bottom-color:#2fcea5}
+.main-timeline .timeline:nth-child(5n) .timeline-content:after,.main-timeline .timeline:nth-child(4n) .timeline-icon i,.main-timeline .timeline:nth-child(4n) .timeline-icon:before,.main-timeline .timeline:nth-child(4n):before{background:#2fcea5}
+.main-timeline .timeline:nth-child(5n) .timeline-icon{border-color:#2fcea5}
+.main-timeline .timeline:nth-child(5n) .title{color:#2fcea5}
+.main-timeline .timeline:nth-child(5n) .timeline-content:before{border-left-color:#2fcea5;border-bottom-color:#2fcea5}
+.main-timeline .timeline:nth-child(6n) .timeline-content:after,.main-timeline .timeline:nth-child(4n) .timeline-icon i,.main-timeline .timeline:nth-child(4n) .timeline-icon:before,.main-timeline .timeline:nth-child(4n):before{background:#2fcea5}
+.main-timeline .timeline:nth-child(6n) .timeline-icon{border-color:#2fcea5}
+.main-timeline .timeline:nth-child(6n) .title{color:#2fcea5}
+.main-timeline .timeline:nth-child(6n) .timeline-content:before{border-left-color:#2fcea5;border-bottom-color:#2fcea5}
 @media only screen and (max-width:1200px){.main-timeline .timeline-icon:before{width:50px;right:-50px}
 .main-timeline .timeline:nth-child(even) .timeline-icon:before{right:auto;left:-50px}
 .main-timeline .timeline-content{margin-top:75px}
