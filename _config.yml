@@ -66,7 +66,7 @@ education:
    date: 2018
    subject: C#/.NET Full-Stack Web Development
    school: Austin Coding Academy
-   website: This is where I want to put my description <a href="https://www.austincodingacademy.com" taget="_blank">austincodingacademy.com</a>
+   website: Built two RESTful MVC web apps with ASP.NET, Entity Framework and Identity; checkers console game in C# (with kinging logic), and other games; static clones of web pages.<a href="https://www.austincodingacademy.com" taget="_blank">austincodingacademy.com</a>
  - level: Doctor of Philosophy (PhD)
    date: 2004
    subject: Music (Composition)
