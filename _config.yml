@@ -38,12 +38,12 @@ roles:
  - title: Junior developer
    start: 2019
    end: Ongoing
-   description: Building an investor data management system with lead developer Matt Cameron for Canaras Capital Management, using React/Redux and ASP.NET Core. <a href="https://www.canaras.com" target="_blank">canaras.com</a>
+   description: Building an investor data management system for Matthew Cameron Consultants, LLC, using React/Redux and ASP.NET Core.
  - title: Textbook writer and editor
    start: 2018
    end: 2019
    employer: Austin Coding Academy
-   description: Wrote and edited instructional texts. <a href="https://www.austincodingacademy.com" target="_blank">austincodingacademy.com</a>
+   description: Wrote and edited online textbooks on WordPress site admin, ASP.NET REST APIs, and JavaScript. <a href="https://www.austincodingacademy.com" target="_blank">austincodingacademy.com</a>
  - title: Pianist
    start: 2017
    end: 2018
@@ -58,7 +58,7 @@ roles:
    start: 2008
    end: 2013
    employer: Nan McKay and Associates
-   description: Maintained 99%+ accuracy of housing subsidy recertification files for my entire period of employment, garnering regular pay bonuses for Nan McKay and Assoc. from its contracting agency, the Chicago Housing Authority. <a href="https://www.thecha.org" target="_blank">thecha.org</a>
+   description: Maintained 99%+ accuracy, as verified weekly by the CHA QC team, of housing subsidy recertification files; helped develop tools and procedures to maximize accuracy and completeness in the client interview and QC processes. <a href="https://www.thecha.org" target="_blank">thecha.org</a>
 
 #Education is required
 education:
