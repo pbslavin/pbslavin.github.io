@@ -51,14 +51,14 @@ roles:
    description: Georgetown, TX. <a href="https://www.sainthelens.org" target="_blank">sainthelens.org</a>
  - title: Accompanist
    start: 2014
-   end: 2018
+   end: 2017
    employer: Trinity Presbyterian Church
    description: San Carlos, CA. <a href="https://www.trinity-pres.org" target="_blank">trinity-pres.org</a>
-#  - title: Quality Control Specialist
-#    start: 1999
-#    end: 2003
-#    employer: Nan McKay and Associates
-#    description: Maintained 99%+ accuracy of housing subsidy recertification files for my entire period of employment, garnering regular pay bonuses for Nan McKay and Assoc. from its contracting agency, the Chicago Housing Authority. <a href="https://www.thecha.org" target="_blank">thecha.org</a>
+ - title: Quality Control Specialist
+   start: 2008
+   end: 2013
+   employer: Nan McKay and Associates
+   description: Maintained 99%+ accuracy of housing subsidy recertification files for my entire period of employment, garnering regular pay bonuses for Nan McKay and Assoc. from its contracting agency, the Chicago Housing Authority. <a href="https://www.thecha.org" target="_blank">thecha.org</a>
 
 #Education is required
 education:
@@ -127,7 +127,7 @@ education:
 #    flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  My first professional field is music, and I've worked as a musician all my adult life; however, I've generally worked outside music, as well, to supplement my income. After getting my bachelor's degree in composition, and seeking more engaging extramusical work than the tech support I was doing at the time, I completed a 13-month course in C and COBOL programming at the Computer Learning Center in San Francisco; I then began searching for jobs, and writing small programs in C, such as a metronome app for Palm Pilot. Within a few months, however, I was accepted into a doctoral program in music, and I gave up hope then  for a coding career. While at Berkeley, I composed computer music at the Center for New Music and Audio Technology (CNMAT) in the Mac-based 'Max/MSP' visual programming language and environment.<br/><br/>
+  I've been a professional classical musician all my adult life; like most working musicians, I have also held many non-musical jobs. A few years after earning my bachelor's degree in composition, I began experimenting on my own with XBasic, just tinkering with fundamental programming logic. In 1996, I took 13-month course in C and COBOL programming at Computer Learning Center in San Francisco, and found it was a lot like composing -- and I appreciated the differences, too. I took a job as an Engineering Assistant at startup company, which designed network cards, with an eye toward finding a programming role there, as the company developed; however, within a few months I was accepted into a doctoral program in music, which necessitated resuming intense focus on music for the next period of my life. WQhile at Berkeley, I composed computer music at the Center for New Music and Audio Technology (CNMAT) in the Mac-based 'Max/MSP' visual programming language and environment.<br/><br/>
   After getting my PhD, I eschewed an academic career, and continued to perform, conduct and teach, also co-directing a 501(c)(3). I helped mount major musical productions, including an opera that was called the most important classical music event of 2013 by the Chicago Sun Times. While focused on music, I continued to experiment with programming languages and tools, such as C++ and Visual Studio, and studied OOP concepts.<br/><br/>
   In 2015, I finally decided to become a professional coder, and taught myself HTML, CSS, JavaScript, Python/Django, Ruby, and modern web development in general. Then I completed Austin Coding Academy's .NET Full-Stack Developer program, being hired to tutor for the school during the course of my studies. I continued to work for ACA after graduating, writing and editing ASP.NET Core REST API, and WordPress and customer service course materials.<br/><br/>
   I am now a Jr. Dev, working on a proprietary investment management system for a firm specializing in alternative investments. The system facilitates and tracks all accounting activity and documentation for the participating investors, funds, and holding companies. It provides tools for calculating fund distributions, reinvestments, and returns, along with reporting and data management capabilities.<br/><br/>
