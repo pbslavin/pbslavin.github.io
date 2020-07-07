@@ -48,26 +48,25 @@ roles:
    start: 2017
    end: 2018
    employer: St Helen Catholic Church
-   description: Georgetown, TX. <a href="https://www.sainthelens.org" target="_blank">sainthelens.org</a>
+   description: Georgetown, TX; accompanied choir and provided other piano music for masses and services. <a href="https://www.sainthelens.org" target="_blank">sainthelens.org</a>
  - title: Accompanist
    start: 2014
    end: 2017
    employer: Trinity Presbyterian Church
-   description: San Carlos, CA. <a href="https://www.trinity-pres.org" target="_blank">trinity-pres.org</a>
+   description: San Carlos, CA; accompanied choir and provided other piano and organ music for services. <a href="https://www.trinity-pres.org" target="_blank">trinity-pres.org</a>
  - title: Quality Control Specialist
    start: 2008
    end: 2013
    employer: Nan McKay and Associates
-   description: Maintained 99%+ accuracy, as verified weekly by the CHA QC team, of housing subsidy recertification files; helped develop tools and procedures to maximize accuracy and completeness in the client interview and QC processes. <a href="https://www.thecha.org" target="_blank">thecha.org</a>
+   description: Maintained 99%+ accuracy in QC review of housing subsidy recertification files; helped develop tools and procedures to minimize errors in interview and QC processes. <a href="https://www.thecha.org" target="_blank">thecha.org</a>
 
 #Education is required
 education:
  - level: Certificate
    date: 2018
    subject: C#/.NET Full-Stack Web Development
-            blah blah blah blah blah blah
    school: Austin Coding Academy
-   website: <a href="https://www.austincodingacademy.com" taget="_blank">austincodingacademy.com</a>
+   website: This is where I want to put my description <a href="https://www.austincodingacademy.com" taget="_blank">austincodingacademy.com</a>
  - level: Doctor of Philosophy (PhD)
    date: 2004
    subject: Music (Composition)
