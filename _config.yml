@@ -39,7 +39,7 @@ roles:
    start: 2019
    end: Ongoing
    employer: Matthew Cameron Consulting, LLC
-   description: Building an investor data management system; the front end is a single page app using React, Redux and Material UI; the back end is a REST API built using ASP.NET Core; the data layer uses EF Core, LINQ, MS SQL Server; Open Fast Reports enables PDF reports.
+   description: Building an investor data management system. The front end is a single page app using React, Redux and Material UI; the back end is a REST API built using ASP.NET Core; the data layer uses EF Core, LINQ, MS SQL Server; Open Fast Reports enables PDF reports.
  - title: Textbook writer and editor
    start: 2018
    end: 2019
