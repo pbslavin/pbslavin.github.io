@@ -24,6 +24,7 @@ skills:
  - Redux
  - JavaScript
  - Node.js
+ - MEAN stack
  - Python
  - Selenium
  - REST APIs
@@ -67,7 +68,7 @@ education:
    date: 2018
    subject: C#/.NET Full-Stack Web Development
    school: Austin Coding Academy
-   website: Built two RESTful MVC apps with ASP.NET Core, Entity Framework Core, Identity, SendGrid, MS SQL Server/SQL Server Management Studio, and third-party authentication; wrote a checkers console game in C# (with comprehensive rules, e.g., kinging), and other console games, including a 'clicker' game, 'Towers of Hanoi,' and tic tac toe; copied web pages and designed my own using HTML5 and CSS3, including transitions and animations; and did other projects with HTML/CSS, C#, and ASP.NET Core. <a href="https://www.austincodingacademy.com" target="_blank">austincodingacademy.com</a>
+   website: Built two RESTful MVC apps with ASP.NET Core, Entity Framework Core, Identity, SendGrid, MS SQL Server/SQL Server Management Studio, and third-party authentication; wrote a checkers console game in C# (with comprehensive rules, e.g., kinging), and other console games; copied and designed web pages using HTML5 and CSS3, including transitions and animations; and did other projects with HTML/CSS, C#, and ASP.NET Core. <a href="https://www.austincodingacademy.com" target="_blank">austincodingacademy.com</a>
  - level: Doctor of Philosophy (PhD)
    date: 2004
    subject: Music (Composition)
@@ -76,7 +77,7 @@ education:
  - level: Diploma
    date: 1997
    subject: COBOL/CICS and C Programming
-   website: Built applications to display, receive, process and store data in a Unix mainframe environment, in COBOL and C, with Oracle Database. Studied Windows batch scripting; SQL, ERDs, and normalization; Windows networking; and MS Office. 
+   website: Built applications to display, receive, process and store data in a Unix mainframe environment, in COBOL and C, with Oracle Database. Also studied Windows batch scripting; PL/SQL; and Novell networking. 
    school: Computer Learning Center
  - level: Bachelor of Music (BM)
    date: 1990
@@ -128,9 +129,9 @@ education:
 #    flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I've been a professional classical musician all my adult life; like most working musicians, I have also held many non-musical jobs. A few years after earning my bachelor's degree in composition, I began experimenting on my own with XBasic, just tinkering with fundamental programming logic. In 1996, I took 13-month course in C and COBOL programming at Computer Learning Center in San Francisco, and found it was a lot like composing -- and I appreciated the differences, too. I took a job as an Engineering Assistant at startup company, which designed network cards, with an eye toward finding a programming role there, as the company developed; however, within a few months I was accepted into a doctoral program in music, which necessitated resuming intense focus on music for the next period of my life. WQhile at Berkeley, I composed computer music at the Center for New Music and Audio Technology (CNMAT) in the Mac-based 'Max/MSP' visual programming language and environment.<br/><br/>
-  After getting my PhD, I eschewed an academic career, and continued to perform, conduct and teach, also co-directing a 501(c)(3). I helped mount major musical productions, including an opera that was called the most important classical music event of 2013 by the Chicago Sun Times. While focused on music, I continued to experiment with programming languages and tools, such as C++ and Visual Studio, and studied OOP concepts.<br/><br/>
-  In 2015, I finally decided to become a professional coder, and taught myself HTML, CSS, JavaScript, Python/Django, Ruby, and modern web development in general. Then I completed Austin Coding Academy's .NET Full-Stack Developer program, being hired to tutor for the school during the course of my studies. I continued to work for ACA after graduating, writing and editing ASP.NET Core REST API, and WordPress and customer service course materials.<br/><br/>
+  I've been a professional classical musician all my adult life. A few years after earning my bachelor's degree in composition in 1990, I began experimenting on my own with XBasic, teaching myself fundamentals of procedural programming. In 1996, I took 13-month course in C and COBOL programming at Computer Learning Center in San Francisco; after graduating, I got a job as an Engineering Assistant at a startup company that made network cards. I hoped to move into a coding role there, but within a few months of working I was accepted into a doctoral program in music that I'd applied to. While getting my PhD, I wrote computer music at the Center for New Music and Audio Technology (CNMAT) in the Max/MSP visual programming language.<br/><br/>
+  After getting my degree, I continued to perform, conduct and teach, and co-directed a 501(c)(3). I helped mount numerous concerts throughout the Chicago area, including an opera production hailed as the most important classical music event of 2013 by the Chicago Sun Times..<br/><br/>
+  Upon moving back to Califormia in 2015, I decided I finally wanted to pivot to coding as my profession, so, after two years of self-study of Python, Django, and the MEAN stack, I completed the .NET Full-Stack Developer program at Austin Coding Academy. The school hired me to tutor while I was taking the course, and I continued to work for ACA after graduating, writing and editing ASP.NET Core REST API, and WordPress and customer service course textbooks.<br/><br/>
   I am now a Jr. Dev, working on a proprietary investment management system for a firm specializing in alternative investments. The system facilitates and tracks all accounting activity and documentation for the participating investors, funds, and holding companies. It provides tools for calculating fund distributions, reinvestments, and returns, along with reporting and data management capabilities.<br/><br/>
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
