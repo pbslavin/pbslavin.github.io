@@ -38,7 +38,8 @@ roles:
  - title: Junior developer
    start: 2019
    end: Ongoing
-   description: Building an investor data management system for Matthew Cameron Consultants, LLC, using React/Redux and ASP.NET Core.
+   employer: Matthew Cameron Consulting, LLC
+   description: Building an investor data management system; the front end is a single page app using React, Redux and Material UI; the back end is a REST API built using ASP.NET Core; the data layer uses EF Core, LINQ, MS SQL Server; Open Fast Reports enables PDF reports.
  - title: Textbook writer and editor
    start: 2018
    end: 2019
@@ -48,17 +49,17 @@ roles:
    start: 2017
    end: 2018
    employer: St Helen Catholic Church
-   description: Georgetown, TX; accompanied choir and provided other piano music for masses and services. <a href="https://www.sainthelens.org" target="_blank">sainthelens.org</a>
+   description: Accompanied choir and provided other piano music for masses and services. <a href="https://www.sainthelens.org" target="_blank">sainthelens.org</a>
  - title: Accompanist
    start: 2014
    end: 2017
    employer: Trinity Presbyterian Church
-   description: San Carlos, CA; accompanied choir and provided other piano and organ music for services. <a href="https://www.trinity-pres.org" target="_blank">trinity-pres.org</a>
+   description: Accompanied choir and provided other piano and organ music for services. <a href="https://www.trinity-pres.org" target="_blank">trinity-pres.org</a>
  - title: Quality Control Specialist
    start: 2008
    end: 2013
    employer: Nan McKay and Associates
-   description: Ensured the integrity of federal housing subsidy files; contributed to new tools and procedures, which dramatically reduced errors in the interview and QC processes, leading to annual bonuses from the Chicago Housing Authority to Nan McKay and Associates. <a href="https://www.thecha.org" target="_blank">thecha.org</a>
+   description: Ensured the integrity of federal housing subsidy files; contributed to new tools and procedures that dramatically reduced errors in the interview and QC processes, leading to annual bonuses from the Chicago Housing Authority. <a href="https://www.thecha.org" target="_blank">thecha.org</a>
 
 #Education is required
 education:
@@ -66,7 +67,7 @@ education:
    date: 2018
    subject: C#/.NET Full-Stack Web Development
    school: Austin Coding Academy
-   website: Built two RESTful MVC apps with ASP.NET Core, Entity Framework, Identity, SendGrid, MS SQL Server/SQL Server Management Studio, and third-party authentication; wrote a checkers console game in C# (with comprehensive rules, e.g., kinging), and other console games, including a 'clicker' game, 'Towers of Hanoi,' and tic tac toe; copied web pages and designed my own using HTML5 and CSS3, including transitions and animations; and did other projects with HTML/CSS, C#, and ASP.NET Core. <a href="https://www.austincodingacademy.com" target="_blank">austincodingacademy.com</a>
+   website: Built two RESTful MVC apps with ASP.NET Core, Entity Framework Core, Identity, SendGrid, MS SQL Server/SQL Server Management Studio, and third-party authentication; wrote a checkers console game in C# (with comprehensive rules, e.g., kinging), and other console games, including a 'clicker' game, 'Towers of Hanoi,' and tic tac toe; copied web pages and designed my own using HTML5 and CSS3, including transitions and animations; and did other projects with HTML/CSS, C#, and ASP.NET Core. <a href="https://www.austincodingacademy.com" target="_blank">austincodingacademy.com</a>
  - level: Doctor of Philosophy (PhD)
    date: 2004
    subject: Music (Composition)
@@ -75,7 +76,7 @@ education:
  - level: Diploma
    date: 1997
    subject: COBOL/CICS and C Programming
-   website: Built applications to display, receive, process and store data in a Unix mainframe environment, in COBOL and C, with Oracle Database. Also studied Windows batch scripting; SQL, ERDs, and normalization; Windows networking; and MS Office. 
+   website: Built applications to display, receive, process and store data in a Unix mainframe environment, in COBOL and C, with Oracle Database. Studied Windows batch scripting; SQL, ERDs, and normalization; Windows networking; and MS Office. 
    school: Computer Learning Center
  - level: Bachelor of Music (BM)
    date: 1990
