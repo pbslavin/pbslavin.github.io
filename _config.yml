@@ -38,7 +38,7 @@ roles:
  - title: Junior Developer
    start: 2019
    end: Ongoing
-   employer: Matthew Cameron Consulting, LLC
+   employer: Matthew Cameron Consulting
    description: Building an investor data management system. The front end is a single page app using React, Redux and Material UI; the back end is a REST API built using ASP.NET Core; the data layer uses EF Core, LINQ, MS SQL Server; Open Fast Reports enables PDF reports.
  - title: Textbook Writer and Editor
    start: 2018
