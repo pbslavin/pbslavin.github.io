@@ -67,12 +67,12 @@ roles:
 
 #Education is required
 education:
- - level: Certificate
+ - level: Certificate of completion
    date: 2018
    subject: C#/.NET Full-Stack Web Development
    school: Austin Coding Academy
    website: Built two RESTful MVC apps with ASP.NET Core, Entity Framework Core, Identity, SendGrid, MS SQL Server/SQL Server Management Studio, and third-party authentication; wrote a checkers console game in C# (with comprehensive rules, e.g., kinging), and other console games; copied and designed web pages using HTML5 and CSS3, including transitions and animations; and did other projects with HTML/CSS, C#, and ASP.NET Core. <a href="https://www.austincodingacademy.com" target="_blank">austincodingacademy.com</a>
- - level: Doctor of Philosophy (PhD)
+ - level: Doctor of Philosophy (Ph.D.)
    date: 2004
    subject: Music (Composition)
    school: University of CA, Berkeley
@@ -80,9 +80,9 @@ education:
  - level: Diploma
    date: 1997
    subject: COBOL/CICS and C Programming
-   website: Built applications to display, receive, process and store data in a Unix mainframe environment, in COBOL and C, with Oracle Database. Also studied Windows batch scripting; PL/SQL; and Novell networking. 
+   website: Built applications to display, receive, process, and store data, in a Unix environment, in COBOL/CICS and C, using Oracle Database. Also studied DOS/Windows, SQL, and Novell network administration. 
    school: Computer Learning Center
- - level: Bachelor of Music (BM)
+ - level: Bachelor of Music (B.M.)
    date: 1990
    subject: Composition
    school: San Francisco Conservatory of Music
@@ -133,7 +133,7 @@ education:
 
 intro: |
   Having been a professional musician all my adult life, with a Ph.D. in music, I began pivoting to a career in coding in 2015. I had first become hooked on programming in 1996, when, several years after getting my bachelor's degree in composition, I completed a 13-month course in C and COBOL at Computer Learning Center, San Francisco. I was accepted into the doctoral program in music while I was in this course, and so my tech career was delayed for two decades. Nevertheless, I continued to write programs (like a metronome app for Palm OS) for my own use. My doctoral program also included work in the Max/MSP language for multimedia control and sound generation at the Center for New Music and Audio Technologies (CNMAT).<br/><br/>
-  I focused intensely on music for the next 10 years; eventually, however, my old yearning to work in tech returned. I began experimenting with Python/Django, the MEAN stack, Ruby, and web development patterns, tools and technologies; I also became conversant with OOP. I completed the C#/.NET Full-Stack Developer program at Austin Coding Academy in 2018, and began tutoring for ACA halfway through the course. I continued to work for the school after graduating, writing and editing textbooks for classes in ASP.NET Core REST APIs, WordPress, JavaScript, and web basics.<br/><br/>
+  I focused intensely on music for the next 10 years; eventually, however, my old itch to work in tech returned. I began experimenting with Python/Django, the MEAN stack, Ruby, and web development patterns, tools and technologies; I also became conversant with OOP. I completed the C#/.NET Full-Stack Developer program at Austin Coding Academy in 2018, and began tutoring for ACA halfway through the course. I continued to work for the school after graduating, writing and editing textbooks for classes in ASP.NET Core REST APIs, WordPress, JavaScript, and web basics.<br/><br/>
   I'm now a Jr. Dev, working on a proprietary investment management system for a firm specializing in alternative investments. The system facilitates and tracks all accounting activity and documentation for the participating investors, funds, and holding companies. It provides tools for calculating fund distributions, reinvestments, and returns, along with reporting and data management capabilities.<br/><br/>
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
