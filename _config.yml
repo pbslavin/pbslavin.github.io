@@ -18,18 +18,20 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - C#/ASP.NET Core
- - SQL Server
  - REST APIs 
  - React
  - Redux
  - JavaScript
  - Node.js
  - MEAN stack
+ - NoSQL
  - Python
+ - Django
  - Ruby
+ - SQL Server
  - xUnit
  - Selenium
- - Git
+ - Git/GitHub
  - HTML/CSS
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
