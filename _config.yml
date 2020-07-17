@@ -78,7 +78,7 @@ education:
    subject: C#/.NET Full-Stack Web Development
    school: Austin Coding Academy
    website: Built two RESTful MVC apps with ASP.NET Core, Entity Framework Core, Identity, SendGrid, MS SQL Server/SQL Server Management Studio, and third-party authentication; wrote a checkers console game in C# (with comprehensive rules, e.g., kinging), and other console games; copied and designed web pages using HTML5 and CSS3, including transitions and animations; and did other projects with HTML/CSS, C#, and ASP.NET Core. <a href="https://www.austincodingacademy.com" target="_blank">austincodingacademy.com</a>
- - level: Doctor of Philosophy (Ph.D.)
+ - level: Doctor of Philosophy (PhD)
    date: 2004
    subject: Music (Composition) 
    school: University of CA, Berkeley
@@ -88,7 +88,7 @@ education:
    subject: COBOL/CICS and C Programming
    website: Built applications to display, receive, process, and store data, in a Unix environment, in COBOL/CICS and C, using Oracle Database. Also studied DOS/Windows, SQL, and Novell network administration. 
    school: Computer Learning Center
- - level: Bachelor of Music (B.M.)
+ - level: Bachelor of Music (BM)
    date: 1990
    subject: Composition
    school: San Francisco Conservatory of Music
