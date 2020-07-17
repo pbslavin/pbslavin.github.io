@@ -33,10 +33,9 @@ skills:
  - SQL Server
  - xUnit
  - Selenium
+ - Open Fast Reports
  - Git/GitHub
  - HTML/CSS
- - Open Fast Reports
- - WordPress
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 # blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
