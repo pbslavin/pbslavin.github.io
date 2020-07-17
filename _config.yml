@@ -18,25 +18,22 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - C#/ASP.NET Core
- - Entity Framwork Core
- - LINQ
- - REST APIs 
+ - REST APIs
+ - MS SQL Server
+ - SQL Server Management Studio
+ - xUnit
+ - Selenium
  - React
  - Redux
  - Material UI
- - JavaScript
+ - Open Fast Reports
+ - HTML/CSS/HJavaScript
  - Node.js
  - MEAN stack
  - Python
  - Django
  - Ruby
- - MS SQL Server
- - SQL Server Management Studio
- - xUnit
- - Selenium
- - Open Fast Reports
  - Git/GitHub
- - HTML/CSS
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 # blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
