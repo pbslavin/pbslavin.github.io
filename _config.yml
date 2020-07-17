@@ -59,11 +59,16 @@ roles:
    end: 2017
    employer: Trinity Presbyterian Church
    description: Accompanied choir and provided other piano and organ music for services. <a href="https://www.trinity-pres.org" target="_blank">trinity-pres.org</a>
- - title: Quality Control Specialist
-   start: 2008
+ - title: Accompanist/Arranger
+   start: 2012
    end: 2013
-   employer: Nan McKay and Associates
-   description: Ensured the integrity of federal housing subsidy files; contributed to new tools and procedures that dramatically reduced errors in the interview and QC processes, leading to annual bonuses from the Chicago Housing Authority. <a href="https://www.thecha.org" target="_blank">thecha.org</a>
+   employer: South Shore Opera Company of Chicago
+   description: Accompanied singers in rehearsal and performance of operas and exerpts, including a production named "the most important classical music event of 2013" by the Chicago Sun Times online edition.
+ - title: Director
+   start: 2007
+   end: 2013
+   employer: Tiny Mahler Orchestra
+   description: Co-directed 501(c)(3), established to present concerts of new and neglected music throughout Chicagoland.
 
 #Education is required
 education:
